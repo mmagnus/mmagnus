@@ -1,4 +1,6 @@
-### Hi there 👋
+Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pen & Paper and Emacs for notes, coding & RNA!
+
+More here: http://mmagnus.github.io
 
 <!--
 **mmagnus/mmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
