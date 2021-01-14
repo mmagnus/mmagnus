@@ -2,6 +2,8 @@ Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pe
 
 More here on me: http://mmagnus.github.io
 
+Covidowy FAQ https://github.com/mmagnus/do-science-covid-faq/blob/main/README.md
+
 My microblog: https://mmagnus.github.io/notes/blog/
 
 <!--
