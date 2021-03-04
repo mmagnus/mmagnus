@@ -6,6 +6,8 @@ G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking sy
 
 pubmex - get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
 
+Pocket+ recipe for Calibre - Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more! https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin
+
 <!--
 **mmagnus/mmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
