@@ -2,7 +2,9 @@ Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pe
 
 More here on me: http://mmagnus.github.io
 
-- pubmex: get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
+G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking system for nerds/geeks (including scientists!) docs: http://geekbook.rtfd.io = beautiful html generator of your markdown-based notes https://github.com/mmagnus/geekbook
+
+pubmex - get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
 
 <!--
 **mmagnus/mmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
