@@ -2,7 +2,7 @@ Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pe
 
 More here on me: http://mmagnus.github.io
 
-My microblog: https://mmagnus.github.io/notes/blog/
+- pubmex: get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
 
 <!--
 **mmagnus/mmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
