@@ -9,6 +9,10 @@ RNA
 - https://github.com/mmagnus/rna-tools
 - https://github.com/mmagnus/RNA-Puzzles-Standardized-Submissions
 
+For Nerds:
+- https://github.com/mmagnus/emacs-env - I've been using Emacs ❤️ for over 13 (since 2007) years now. This's my config file :-) it might be useful for someone.
+- https://github.com/mmagnus/emacs-pdb-mode - pdb-mode is an emacs-lisp minor mode for Emacs to perform a number of useful editing functions on Protein DataBank (PDB) formatted files. XEmacs and/or GNU Emacs are available for most computing platforms.
+
 Splicing:
 - https://github.com/mmagnus/PyMOL4Spliceosome
 
