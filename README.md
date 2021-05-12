@@ -1,7 +1,7 @@
 Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pen & Paper and Emacs for notes, coding & RNA!
 
 More here on me: http://mmagnus.github.io
-
+<!--
 SCIENCE:
 - **pubmex** - get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
 
@@ -15,6 +15,8 @@ For nerds:
 
 Splicing:
 - https://github.com/mmagnus/PyMOL4Spliceosome
+
+-->
 
 <!--
 **mmagnus/mmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
