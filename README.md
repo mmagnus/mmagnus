@@ -1,6 +1,11 @@
 Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pen & Paper and Emacs for notes, coding & RNA!
 
 More here on me: http://mmagnus.github.io
+
+Splicing:
+- https://github.com/mmagnus/PyMOL4Spliceosome - structures of the spliceosome processed to be easily viewed with PyMOL
+- https://github.com/mmagnus/yeast-spotifier - a script to process yeast plate image into figures :-)
+
 <!--
 SCIENCE:
 - **pubmex** - get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
@@ -13,8 +18,6 @@ For nerds:
 - https://github.com/mmagnus/emacs-env - I've been using Emacs ❤️ for over 13 (since 2007) years now. This's my config file :-) it might be useful for someone.
 - https://github.com/mmagnus/emacs-pdb-mode - pdb-mode is an emacs-lisp minor mode for Emacs to perform a number of useful editing functions on Protein DataBank (PDB) formatted files. XEmacs and/or GNU Emacs are available for most computing platforms.
 
-Splicing:
-- https://github.com/mmagnus/PyMOL4Spliceosome
 
 -->
 
