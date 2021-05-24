@@ -3,7 +3,7 @@ Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pe
 More here on me: http://mmagnus.github.io
 
 Splicing:
-- https://github.com/mmagnus/PyMOL4Spliceosome - structures of the spliceosome processed to be easily viewed with PyMOL
+- https://github.com/mmagnus/PyMOL4Spliceosome - structures of spliceosome processed to be easily viewed with PyMOL
 - https://github.com/mmagnus/yeast-spotifier - a script to process yeast plate image into figures :-)
 
 <!--
