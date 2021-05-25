@@ -7,7 +7,7 @@ Splicing:
 - https://github.com/mmagnus/yeast-spotifier - a script to process yeast plate image into figures :-)
 
 SCIENCE:
-- **pubmex** - get a fancy paper title based on detected or given DOI or PMID https://github.com/mmagnus/pubmex
+- [pubmex]( https://github.com/mmagnus/pubmex) - get a fancy paper title based on detected or given DOI or PMID
 
 RNA
 - https://github.com/mmagnus/rna-tools
