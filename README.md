@@ -1,4 +1,4 @@
-Ph.D., molecular biologist & bioinformatician, co-founder of Do Science! uses Pen & Paper and Emacs for notes, coding & RNA!
+Ph.D., molecular biologist & bioinformatician
 
 More here on me: http://mmagnus.github.io
 
