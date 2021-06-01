@@ -13,7 +13,7 @@ RNA
 
 FOR NERDS:
 - [pubmex]( https://github.com/mmagnus/pubmex) - get a fancy paper title based on detected or given DOI or PMID
-- [emacs-env](https://github.com/mmagnus/emacs-env) - I've been using Emacs ❤️ for over 13 (since 2007) years now. This's my config file :-) it might be useful for someone.
+- [emacs-env](https://github.com/mmagnus/emacs-env) - I've been using Emacs ❤️ for almost 15 years (since 2007) now. This's my config file :-) it might be useful for someone.
 - [emacs-pdb-mode](https://github.com/mmagnus/emacs-pdb-mode) - pdb-mode is an emacs-lisp minor mode for Emacs to perform a number of useful editing functions on Protein DataBank (PDB) formatted files. XEmacs and/or GNU Emacs are available for most computing platforms.
 - [PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) experimental version of [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin)
 
