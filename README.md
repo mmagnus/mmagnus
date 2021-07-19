@@ -1,6 +1,6 @@
 Ph.D., molecular biologist & bioinformatician
 
-More here on me: http://mmagnus.github.io
+More here on me: http://mmagnus.github.io mapper https://www.openstreetmap.org/user/mmagnus
 
 SPLICING:
 - [PyMOL4Spliceosome](https://github.com/mmagnus/PyMOL4Spliceosome) - structures of spliceosome processed to be easily viewed with PyMOL
