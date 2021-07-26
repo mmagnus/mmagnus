@@ -2,19 +2,19 @@
 
 🗺 mapper https://www.openstreetmap.org/user/mmagnus
 
-🦥 More here on me: http://mmagnus.github.io 
+🦥 More about me: http://mmagnus.github.io 
 
-SPLICING:
+**SPLICING**:
 - [PyMOL4Spliceosome](https://github.com/mmagnus/PyMOL4Spliceosome) - structures of spliceosome processed to be easily viewed with PyMOL
 - [yeast-spotifier](https://github.com/mmagnus/yeast-spotifier) - a script to process yeast plate image into figures :-)
 
-RNA
+**RNA**
 - mqapRNA/mqapRNAweb/mqapRNAdb - consensus, machine-learning based model quality assessment program for RNA 3D models (soon)
 - [EvoClustRNA](https://github.com/mmagnus/EvoClustRNA) - RNA 3D structure prediction using multiple sequence alignment information docs @ http://EvoClustRNA.rtfd.io
 - [rna-tools](https://github.com/mmagnus/rna-tools) - a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io
 - [RNA-Puzzles-Standardized-Submissions](https://github.com/mmagnus/RNA-Puzzles-Standardized-Submissions) - Curated structures submitted to the RNA-Puzzles experiment
 
-FOR NERDS:
+**FOR NERDS**:
 - 💥 [geekbook](https://github.com/mmagnus/geekbook) - G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking system for nerds/geeks (including scientists!) docs: http://geekbook.rtfd.io = beautiful html generator of your markdown-based notes
 - [pubmex](https://github.com/mmagnus/pubmex) - get a fancy paper title based on detected or given DOI or PMID
 - [emacs-env](https://github.com/mmagnus/emacs-env) - I've been using Emacs for almost 15 years (since 2007) now. This's my config file :-) it might be useful for someone.
