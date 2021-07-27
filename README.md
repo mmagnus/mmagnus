@@ -9,7 +9,7 @@
 - [yeast-spotifier](https://github.com/mmagnus/yeast-spotifier) - a script to process yeast plate image into figures :-)
 
 **RNA**
-- [mqapRNA](https://github.com/mmagnus/mqapRNA)/[mqapRNAweb](https://github.com/mmagnus/mqapRNAweb)/[mqapRNAdb](https://github.com/mmagnus/mqapRNAdb) - (soon) consensus, machine-learning based model quality assessment program for RNA 3D models
+- [mqapRNA](https://github.com/mmagnus/mqapRNA)/[mqapRNAweb](https://github.com/mmagnus/mqapRNAweb)/[mqapRNAdb](https://github.com/mmagnus/mqapRNAdb) - (open soon) consensus, machine-learning based model quality assessment program for RNA 3D models
 - [EvoClustRNA](https://github.com/mmagnus/EvoClustRNA) - RNA 3D structure prediction using multiple sequence alignment information docs @ http://EvoClustRNA.rtfd.io
 - [rna-tools](https://github.com/mmagnus/rna-tools) - a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io
 - [RNA-Puzzles-Standardized-Submissions](https://github.com/mmagnus/RNA-Puzzles-Standardized-Submissions) - Curated structures submitted to the RNA-Puzzles experiment
