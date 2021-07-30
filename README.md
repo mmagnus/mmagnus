@@ -1,5 +1,14 @@
 🎓 Ph.D., molecular biologist & bioinformatician
 
+Key papers: 
+
+- *mqapRNA: model quality assessment program for RNA 3D models* with Bujnicki @IIMCB [inprogress]
+- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & Warsaw University, Poland 
+- *RNA 3D Structure Prediction Using Multiple Sequence Alignment Information* with Das and Bujnicki @ Stanford University, USA & IIMCB, Poland
+- *Rearrangements within the U6 snRNA core at the transition between the two catalytic steps of splicing* with Konarska @ Warsaw University, Poland
+
+IIMCB = International Institute of Molecular and Cell Biology
+
 🗺 mapper https://www.openstreetmap.org/user/mmagnus
 
 🦥 More about me: http://mmagnus.github.io 
