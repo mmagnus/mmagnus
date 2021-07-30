@@ -21,6 +21,7 @@
 - [emacs-env](https://github.com/mmagnus/emacs-env) - I've been using Emacs for almost 15 years (since 2007) now. This's my config file :-) it might be useful for someone.
 - [emacs-pdb-mode](https://github.com/mmagnus/emacs-pdb-mode) - pdb-mode is an emacs-lisp minor mode for Emacs to perform a number of useful editing functions on Protein DataBank (PDB) formatted files. XEmacs and/or GNU Emacs are available for most computing platforms.
 - [OrgModeClocking2Calendar](https://github.com/mmagnus/OrgModeClocking2Calendar) - one way synchronization of your clocking (time tracking) entries from OrgMode Emacs to Calendar (Mac only)
+- [garmin2orgmode](https://github.com/mmagnus/garmin2orgmode) - Send your Garmin activities to OrgMode
 - [PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) experimental version of [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin)
 
 <!--
