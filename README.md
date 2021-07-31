@@ -33,6 +33,7 @@ IIMCB = International Institute of Molecular and Cell Biology
 - [OrgModeClocking2Calendar](https://github.com/mmagnus/OrgModeClocking2Calendar) - one way synchronization of your clocking (time tracking) entries from OrgMode Emacs to Calendar (Mac only)
 - [garmin2orgmode](https://github.com/mmagnus/garmin2orgmode) - Send your Garmin activities to OrgMode
 - [garmin2calendar](https://github.com/mmagnus/garmin2calendar) - Send your Garmin activities to Calendar
+- [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - send Pocket-ed articles from the Internet to your Kindle (or others)
 - [PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) experimental version of [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin)
 
 <!--
