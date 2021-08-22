@@ -25,6 +25,9 @@ IIMCB = International Institute of Molecular and Cell Biology
 - [PyMOL4RNA](https://rna-tools.readthedocs.io/en/latest/pymol4rna.html) - set of scripts to be used in PyMOL (based on rna-tools)
 - [RNA-Puzzles-Standardized-Submissions](https://github.com/mmagnus/RNA-Puzzles-Standardized-Submissions) - Curated structures submitted to the RNA-Puzzles experiment
 
+**Workflows**
+- [rna-tools-webserver-engine](https://github.com/mmagnus/rna-tools-webserver-engine) - The light-weight, complete webserver engine used by me for servers: NPDock (RNA/DNA-protein docking method, http://genesilico.pl/NPDock/), SimRNAweb (RNA 3D structure prediction method, http://iimcb.genesilico.pl/SimRNAweb/), mqapRNA (RNA 3D quality control, http://iimcb.genesilico.pl/mqapRNA/), RNAMasonry (building RNA models from recurrent 3D motifs, http://genesilico.pl/rnamasonry).
+ 
 **FOR NERDS**:
 - 💥 [geekbook](https://github.com/mmagnus/geekbook) - G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking system for nerds/geeks (including scientists!) docs: http://geekbook.rtfd.io = beautiful html generator of your markdown-based notes
 - [pubmex](https://github.com/mmagnus/pubmex) - get a fancy paper title based on detected or given DOI or PMID
