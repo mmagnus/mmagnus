@@ -2,7 +2,7 @@
 
 Key papers: 
 
-- ***Cwc15 & splicing catalysis* with Konarska @ IMOL, Poland [inprogress]**
+- ***Cwc15 & mechanism of splicing catalysis* with Konarska @ IMOL, Poland [inprogress]**
 - ***mqapRNA: model quality assessment program for RNA 3D models* with Bujnicki @IIMCB, Poland [inprogress]**
 - *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & Warsaw University, Poland 
 - *RNA 3D Structure Prediction Using Multiple Sequence Alignment Information* with Das and Bujnicki @ Stanford University, USA & IIMCB, Poland
