@@ -1,3 +1,5 @@
+![](banner.jpg)
+
 🎓 Ph.D., molecular biologist & bioinformatician
 
 Key papers: 
