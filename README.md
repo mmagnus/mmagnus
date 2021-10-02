@@ -1,4 +1,4 @@
-<--![](banner.jpg)-->
+<!--![](banner.jpg)-->
 
 🎓 Ph.D., molecular biologist & bioinformatician
 
