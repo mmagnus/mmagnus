@@ -1,6 +1,6 @@
 <!--![](banner.jpg)-->
 
-🎓 Ph.D., molecular biologist & bioinformatician
+🎓 Ph.D., molecular biologist & bioinformatician, nerd
 
 Key papers: 
 
