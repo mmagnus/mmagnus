@@ -6,11 +6,12 @@ Key papers:
 
 - ***Mechanism of splicing catalysis* with Konarska @ IMOL, Poland [inprogress]**
 - ***mqapRNA: model quality assessment program for RNA 3D models* with Bujnicki @IIMCB, Poland [inprogress]**
-- *Rearrangements within the U6 snRNA core at the transition between the two catalytic steps of splicing* with Konarska @ Warsaw University, Poland
-- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & Warsaw University, Poland 
+- *Rearrangements within the U6 snRNA core at the transition between the two catalytic steps of splicing* with Konarska @IMOL, Poland
+- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & IMOL, Poland 
 - *RNA 3D Structure Prediction Using Multiple Sequence Alignment Information* with Das and Bujnicki @ Stanford University, USA & IIMCB, Poland
 
-IIMCB = International Institute of Molecular and Cell Biology
+IIMCB = International Institute of Molecular and Cell Biology, Warsaw, Poland
+IMOL = International Institute of Molecular Mechanisms and Machines, Polish Academy of Sciences, Warsaw, Poland
 
 🗺 mapper https://www.openstreetmap.org/user/mmagnus
 
