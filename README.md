@@ -1,6 +1,6 @@
 <!--![](banner.jpg)-->
 
-🎓 Ph.D., molecular biologist & bioinformatician
+🎓 Ph.D., RNA molecular biologist & bioinformatician
 
 Key papers: 
 
