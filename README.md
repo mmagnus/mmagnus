@@ -35,6 +35,7 @@ Papers https://www.semanticscholar.org/author/Marcin-Magnus/38336150 https://sch
  
 **FOR NERDS**:
 - 💥 [geekbook](https://github.com/mmagnus/geekbook) - G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking system for nerds/geeks (including scientists!) docs: http://geekbook.rtfd.io = beautiful html generator of your markdown-based notes
+- [boox-wifi-sync](https://github.com/mmagnus/boox-wifi-sync) - sync over WiFi with your Boox devices using ssh
 - [pubmex](https://github.com/mmagnus/pubmex) - get a fancy paper title based on detected or given DOI or PMID
 - [emacs-env](https://github.com/mmagnus/emacs-env) - I've been using Emacs for almost 15 years (since 2007) now. This's my config file :-) it might be useful for someone.
 - [emacs-pdb-mode](https://github.com/mmagnus/emacs-pdb-mode) - pdb-mode is an emacs-lisp minor mode for Emacs to perform a number of useful editing functions on Protein DataBank (PDB) formatted files. XEmacs and/or GNU Emacs are available for most computing platforms.
