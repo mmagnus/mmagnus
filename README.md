@@ -8,7 +8,7 @@ Key papers:
 - ***mqapRNA: model quality assessment program for RNA 3D models* with Bujnicki @IIMCB, Poland** <img src="https://shields.io/static/v1?label=&message=in progress&color=orange">
 - *Rearrangements within the U6 snRNA core at the transition between the two catalytic steps of splicing* with Konarska @IMOL, Poland, 2019
 - *RNA 3D Structure Prediction Using Multiple Sequence Alignment Information* with Das and Bujnicki @ Stanford University, USA & IIMCB, Poland, 2019
-- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & IMOL, Poland, 2020 [http://rna-tools.online](http://rna-tools.online) <img src="https://shields.io/static/v1?label=&message=in progress&color=orange">
+- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & IMOL, Poland, 2020 [http://rna-tools.online](http://rna-tools.online)
  
 IIMCB = International Institute of Molecular and Cell Biology, Warsaw, Poland
 IMOL = International Institute of Molecular Mechanisms and Machines, Polish Academy of Sciences, Warsaw, Poland
