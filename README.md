@@ -17,8 +17,11 @@ IMOL = International Institute of Molecular Mechanisms and Machines, Polish Acad
 
 🦥 More about me: http://mmagnus.github.io 
 
-Papers [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-5232-2234)
- https://www.semanticscholar.org/author/Marcin-Magnus/38336150 https://scholar.google.pl/citations?user=O2gLO2EAAAAJ&hl=en
+Papers:
+
+- https://orcid.org/0000-0002-5232-2234
+- https://www.semanticscholar.org/author/Marcin-Magnus/38336150
+- https://scholar.google.pl/citations?user=O2gLO2EAAAAJ&hl=en
 
 **SPLICING**:
 - [PyMOL4Spliceosome](https://github.com/mmagnus/PyMOL4Spliceosome) - structures of spliceosome processed to be easily viewed with PyMOL
