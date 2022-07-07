@@ -2,6 +2,9 @@
 
 🎓 Ph.D., RNA structural biologist/bioinformatician
 
+I'm trying to understand the evolution and role of RNA and RNPs using computational methods (machine learning, molecular dynamics, structure prediction) and experimental (yeast genetics and cryoEM) and codify the knowledge into the code.
+https://mmagnus.github.io
+
 Key papers: 
 
 - ***Mechanism of splicing catalysis* with Konarska @ IMOL, Poland** <img src="https://shields.io/static/v1?label=&message=in progress&color=orange">
