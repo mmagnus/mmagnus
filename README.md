@@ -2,7 +2,7 @@
 
 🎓 Ph.D., RNA structural biologist/bioinformatician
 
-I'm trying to understand the evolution and role of RNA and RNPs in biological systems using computational methods (machine learning, molecular dynamics, structure prediction) and experimental (yeast genetics and cryoEM) and codify the knowledge.
+I'm trying to understand the evolution and role of RNA and RNPs in biological systems using computational methods (machine learning, molecular dynamics, structure prediction) and experimental (yeast genetics and cryoEM) and codify this knowledge into predictive computational models.
 https://mmagnus.github.io
 
 Key papers: 
