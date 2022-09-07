@@ -6,6 +6,8 @@ I'm trying to understand the evolution and role of RNA and RNPs in biological sy
 
 #U6dynamics #Cwc15 #EvoClustRNA #rna-tools #mqapRNA
 
+https://github.com/mmagnus/awesome-rna-3D-tools
+
 Key papers: 
 
 - ***Mechanism of splicing catalysis* with Konarska @ IMOL, Poland** <img src="https://shields.io/static/v1?label=&message=in progress&color=orange">
