@@ -44,15 +44,18 @@ Papers:
 **FOR NERDS**:
 - 💥 [geekbook](https://github.com/mmagnus/geekbook) - G33KB00K3 - fun to read & fun to write -- 🤓 eXtreme eXtendable note taking system for nerds/geeks (including scientists!) docs: http://geekbook.rtfd.io = beautiful html generator of your markdown-based notes
 - [boox-wifi-sync](https://github.com/mmagnus/boox-wifi-sync) - sync over WiFi with your Boox devices using ssh
-- [OrgModeClockingXBar](https://github.com/mmagnus/OrgModeClockingXBar) - See what you are working on ;-) using emacs/orgmode/clocking
 - [pubmex](https://github.com/mmagnus/pubmex) - get a fancy paper title based on detected or given DOI or PMID
+- [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - send Pocket-ed articles from the Internet to your Kindle (or others)
+- [PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) experimental version of [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin)
+
+**FOR NERDS USIGN EMACS**:
+
+- [OrgModeClockingXBar](https://github.com/mmagnus/OrgModeClockingXBar) - See what you are working on ;-) using emacs/orgmode/clocking
 - [emacs-env](https://github.com/mmagnus/emacs-env) - I've been using Emacs for almost 15 years (since 2007) now. This's my config file :-) it might be useful for someone.
 - [emacs-pdb-mode](https://github.com/mmagnus/emacs-pdb-mode) - pdb-mode is an emacs-lisp minor mode for Emacs to perform a number of useful editing functions on Protein DataBank (PDB) formatted files. XEmacs and/or GNU Emacs are available for most computing platforms.
 - [OrgModeClocking2Calendar](https://github.com/mmagnus/OrgModeClocking2Calendar) - one way synchronization of your clocking (time tracking) entries from OrgMode Emacs to Calendar (Mac only)
 - [garmin2orgmode](https://github.com/mmagnus/garmin2orgmode) - Send your Garmin activities to OrgMode
 - [garmin2calendar](https://github.com/mmagnus/garmin2calendar) - Send your Garmin activities to Calendar
-- [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - send Pocket-ed articles from the Internet to your Kindle (or others)
-- [PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) experimental version of [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin)
 
 <!--
 -->
