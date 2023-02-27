@@ -2,7 +2,7 @@
 
 🎓 Ph.D., Computational RNA biologist at Harvard University, USA
 
-I'm trying to understand the evolution and role of RNA and RNPs in biological systems using computational methods (machine learning, molecular dynamics, structure prediction) and experimental (yeast genetics) and codify this knowledge into predictive computational and apply it for future RNA therapeutics.
+I'm trying to understand the evolution and role of RNA and RNPs in biological systems using computational methods (machine learning, molecular dynamics, structure prediction) and experimental (yeast genetics) and codify this knowledge into predictive computational models that can be applied for future RNA therapeutics.
 
 https://mmagnus.github.io 
 
