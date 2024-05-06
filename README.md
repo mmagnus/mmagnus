@@ -10,7 +10,7 @@ Key papers:
 
 - *Rearrangements within the U6 snRNA core at the transition between the two catalytic steps of splicing* with Konarska @IMOL, Poland, 2019
 - *RNA 3D Structure Prediction Using Multiple Sequence Alignment Information* with Das and Bujnicki @ Stanford University, USA & IIMCB, Poland, 2019
-- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & IMOL, Poland, 2020 & the server [https://rna-tools.online](http://rna-tools.online) 2022-
+- *RNA-Puzzles toolkit: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools* with the RNA-Puzzle Team @ IIMCB & IMOL, Poland, 2020 & the server [https://rna-tools.online](http://rna-tools.online) 2022
 - *RNA 3D structure prediction using Deep learning*, with Rivas, @Harvard, US, 2023-
 
 RNA
